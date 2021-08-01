@@ -1,0 +1,12 @@
+/home/eidwood/eww/target/release/deps/version_compare-dfec111e471ab719.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/comp_op.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_compare.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_manifest.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_part.rs
+
+/home/eidwood/eww/target/release/deps/libversion_compare-dfec111e471ab719.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/comp_op.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_compare.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_manifest.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_part.rs
+
+/home/eidwood/eww/target/release/deps/version_compare-dfec111e471ab719.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/comp_op.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_compare.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_manifest.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_part.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/comp_op.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_compare.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_manifest.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.0.10/src/version_part.rs:

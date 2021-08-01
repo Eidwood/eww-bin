@@ -1,0 +1,13 @@
+/home/eidwood/eww/target/release/deps/notify-5107b4bab44e8e93.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/inotify.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/event.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/null.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/poll.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/config.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/error.rs
+
+/home/eidwood/eww/target/release/deps/libnotify-5107b4bab44e8e93.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/inotify.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/event.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/null.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/poll.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/config.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/error.rs
+
+/home/eidwood/eww/target/release/deps/notify-5107b4bab44e8e93.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/inotify.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/event.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/null.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/poll.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/config.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/error.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/inotify.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/event.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/null.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/poll.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/config.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.7/src/error.rs:
